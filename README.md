@@ -36,4 +36,3 @@ How far can you go in less than 5 seconds?
 
 -   Read:[RSA Factoring Challenge](https://intranet.hbtn.io/rltoken/8F5ClnjOFgDcNZXxeyrHxg "RSA Factoring Challenge")
 
-Contact me : [@123mame](https://github.com/123mame/RSA-Factoring-Challenge "@123mame")
